@@ -1,4 +1,4 @@
-class Triangle
+class AT
 {
 public static void main(String arg[])
 {
