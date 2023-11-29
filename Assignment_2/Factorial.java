@@ -14,7 +14,7 @@ public class FactorialRecursive {
     }
 
  
-    private static long calculateFactorial(int num) {
+   public static long calculateFactorial(int num) {
         
         if (num == 0) {
             return 1;
