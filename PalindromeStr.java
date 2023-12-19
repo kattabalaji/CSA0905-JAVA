@@ -3,7 +3,7 @@ class PalindromeStr
 {
 public static void main(String args[])
 {
-String s1="Vineetha"; 
+String s1="Vineeniv"; 
 String s2=""; 
 int len=s1.length(); 
 for(int i=len-1;i>=0;i--) 
